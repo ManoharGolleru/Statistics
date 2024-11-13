@@ -1,5 +1,5 @@
 # Statistics
-
+```mermaid
 flowchart TD
     %% Start
     A[Start] --> B{Define Research Question}
