@@ -24,7 +24,7 @@ flowchart LR
 
 ---
 
-## 2 · Concrete Example
+## 2 · Using a Script from The Foreigner by Larry Shue
 
 ### 2.1 RAW TRANSCRIPT (first 3 of 10 exchanges)
 
@@ -73,6 +73,6 @@ You: what does Betty like?
 Todd: Betty loves my travel stories and the spoons I give her.
 ```
 
-Both answers come from the **KB summary**, not the prompt chunk—proof that RAG fetches the older context when needed.
+Both answers come from the **KB summary**, not the prompt chunk, proof that RAG fetches the older context when needed.
 
 ---
